@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tesla CEO 새로운 보상안 등 2025 주주총회 정리 (SEC 자료 기반)
+title: 2026-01-13-Tesla-CEO-New-Award-ETC-2025-annual-shareholder-meeting
 subtitle: Tesla의 앞으로 10년 (2025~2035) 방향을 결정하는 중요한 분기점
 cover-img: /assets/img/raydown.jpg
 thumbnail-img: /assets/img/thumb.png
