@@ -66,12 +66,12 @@ author: Erling Ray
 
 ---
 ### Musk's Actions
-* 2026-01-14 X posting
+* 2026-01-14 X posting (10M+ FSD 구독 목표)
 > Tesla will stop selling FSD after Feb 14. 
 > FSD will only be available as a monthly subscription thereafter.
 >  - @elonmusk
 > https://x.com/elonmusk/status/2011324998653513810?s=20
- - 10M+ FSD 구독 목표
+
 
 
 
