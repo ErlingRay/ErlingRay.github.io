@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026-01-13-Tesla-CEO-New-Award-ETC-2025-annual-shareholder-meeting
+title: Tesla CEO New Award ETC 2025 annual shareholder meeting review
 subtitle: Tesla의 앞으로 10년 (2025~2035) 방향을 결정하는 중요한 분기점
 cover-img: /assets/img/raydown.jpg
 thumbnail-img: /assets/img/thumb.png
