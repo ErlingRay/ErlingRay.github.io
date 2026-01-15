@@ -1,23 +1,24 @@
-/* 기본 본문 & 텍스트 */
+/* 본문 텍스트 전체 */
 body,
 p,
 li,
 .post-content,
-.post-title,
-.post-subtitle {
+.post-excerpt,
+.post-meta {
     font-family: 'Noto Sans KR', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
     font-weight: 400;
 }
 
-/* 제목들 (heading) */
+/* 제목 (h1~h6, 포스트 제목 등) */
 h1, h2, h3, h4, h5, h6,
 .post-title,
-.page-title {
+.page-title,
+.sidebar-about h1 {
     font-family: 'Roboto', 'Noto Sans KR', sans-serif !important;
     font-weight: 700;
 }
 
-/* 코드 블록 & monospace */
+/* 코드 블록 (필요하면) */
 code, pre, .highlight {
-    font-family: 'Roboto Mono', 'Noto Sans KR', monospace !important;
+    font-family: 'Roboto Mono', monospace !important;
 }
