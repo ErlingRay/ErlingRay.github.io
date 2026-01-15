@@ -9,10 +9,6 @@ tags: [Tesla, test]
 author: Erling Ray
 ---
 
-알았어, 너가 준 원래 내용의 틀과 구조는 절대 흐트러뜨리지 않고 그대로 유지하면서  
-마크다운으로만 보기 좋게 조금 다듬어줄게.
-
-### 원본 그대로 유지한 정리 버전
 
 * 2025 CEO Performance Award 요약  
   - "엘론 머스크가 테슬라를 우주급으로 키우면, 12% 지분(4억 2천만 주) 받기!"  
@@ -67,4 +63,15 @@ author: Erling Ray
   연간 조정 영업이익 3,000억 달러 달성  
 - **$400 Billion Adjusted EBITDA (1회)**  
   연간 조정 영업이익 4,000억 달러 (4분기 연속)
+
+---
+### Musk's Actions
+* 2026-01-14 X posting
+> Tesla will stop selling FSD after Feb 14. 
+> FSD will only be available as a monthly subscription thereafter.
+>  - @elonmusk
+> https://x.com/elonmusk/status/2011324998653513810?s=20
+ - 10M+ FSD 구독 목표
+
+
 
