@@ -1,3 +1,14 @@
+---
+layout: post
+title: Tesla 2025 Annual Shareholder Meeting Agenda (based on 8-K)
+subtitle: Tesla의 미래 성장을 위한 분기점
+cover-img: /assets/img/raydown.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [Tesla]
+author: Erling Ray
+---
+
 # Elon Musk 2025 CEO Award 정리 (SEC 자료 기반)
 > SEC filing (8-K, PRE 14A, DEF 14A)  
 > (2025 Ver)https://www.sec.gov/Archives/edgar/data/1318605/000110465925087598/tm252289-4_pre14a.htm  
