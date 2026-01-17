@@ -2,7 +2,7 @@
 layout: post
 title: 2026 Tesla Model 3 Standard RWD 스펙 정리
 subtitle: 진짜 가성비 엔트리 등장 가격 대비 500km+ 주행거리, LFP 배터리 장기 소유 최적화 모델
-cover-img: /assets/img/2026Q1model3standard.jpg # 너가 원하는 이미지 경로로 바꿔!
+cover-img: /assets/img/2026Q1model3standard.jpg # 너가 원하는 이미지 경로로 바꿔
 thumbnail-img: /assets/img/thumb-model3.png
 share-img: /assets/img/tesla-model3-share.jpg
 tags: [Tesla, Model3, EV, ElectricVehicle, 가성비EV]
@@ -74,3 +74,4 @@ author: Erling Ray
 
 ### 총평
 - **테슬라 입문용**
+- **2026년 시장 혼돈**
