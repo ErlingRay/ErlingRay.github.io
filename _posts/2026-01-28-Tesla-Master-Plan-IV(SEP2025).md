@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Master Plan Part IV - 2025.09.01
-subtitle: Sustainable Abundance
-cover-img: /assets/img/tesla master plan 4 bg.jpg # 너가 원하는 이미지 경로로 바꿔
-thumbnail-img: /assets/img/thumb-model3.png
+title: Master Plan Part IV
+subtitle: Sustainable Abundance. 2025.09.01 Tesla Team
+cover-img: /assets/img/tesla_master_plan_4_bg.jpg # 너가 원하는 이미지 경로로 바꿔
+thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/tesla-model3-share.jpg
 tags: [Tesla, MasterPlanIV]
 author: Erling Ray
